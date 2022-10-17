@@ -1,1 +1,1 @@
-# Video-background-removal
+# Video background and foreground composing
